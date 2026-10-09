@@ -219,4 +219,3 @@ premiumZoneColor                = styleInput == MONOCHROME ? MONO_BEARISH : prem
 discountZoneColor               = styleInput == MONOCHROME ? MONO_BULLISH : discountZoneColorInput 
 varip int currentBarIndex           = bar_index
 varip int lastBarIndex              = bar_index
-
